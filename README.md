@@ -1,2 +1,4 @@
 # TextEncrybtion-app
-Encrybtion(caesar cipher - vigenere cipher - affine cipher)
+.python build
+.with tkinter GUI
+.Encrybtion(caesar cipher - vigenere cipher - affine cipher)
