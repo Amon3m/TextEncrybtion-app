@@ -1,8 +1,8 @@
 # TextEncrybtion-app
 .python build
 .with tkinter GUI
-.Encrybtion(caesar cipher - vigenere cipher - affine cipher)
+.Encrybtion(caesar cipher - vigenere cipher - affine cipher-Rail Fence cipher)
 
 
-![image](https://user-images.githubusercontent.com/112562093/205189886-6f79fede-c7fe-4f1c-87aa-aab2b555ce03.png)
+![image](https://user-images.githubusercontent.com/112562093/205194546-d659226e-1374-48bd-9cbc-b01ea578310d.png)
 
