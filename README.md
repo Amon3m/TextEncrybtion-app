@@ -1,11 +1,11 @@
-# TextEncrybtion-app
+# TextEncryption-app
 .python build
 
 
 .with tkinter GUI
 
 
-.Encrybtion(caesar cipher - vigenere cipher - affine cipher-Rail Fence cipher)
+.Encryption(caesar cipher - vigenere cipher - affine cipher-Rail Fence cipher)
 
 
 
